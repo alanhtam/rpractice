@@ -6,3 +6,4 @@ though some may be derived from solutions found on stack or elsewhere. I've atte
 sources within the code.
 
 Running list of completed projects:
+* cache matrix
